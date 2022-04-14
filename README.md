@@ -1,53 +1,17 @@
-# No Code
+# Never Code
 
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
+No code was one of the best way to write secure and reliable applications. Write nothing and deploy nowhere. With nevercode a huge improvement missing in the developer experience is introduced. The idea is for never code to be a wrapper around no code. 
 
 ## Getting Started
 
-Start by not writing any code.
-
-```
-
-```
-
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
-
-```
-
-```
-
-The possibilities are endless.
+Start by realizing that you are done with writing code after having read this sentence.
 
 ### Building the Application
 
-Now that you have not done anything it's time to build your application:
-
-```
-
-```
-
-Yep. That's it. You should see the following output:
-
-```
-
-```
 
 ### Deploying
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
-
-I know right?
 
 ## Contributing
 
-You don't.
+Your career is over.
